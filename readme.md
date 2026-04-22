@@ -21,7 +21,7 @@ This repository contains artifacts for the paper:
 
 1. Open the notebooks in:
    - Jupyter Notebook, or  
-   - Google Colab  
+   - Google Colab   
 
 2. Run all cells sequentially to reproduce:
    - semantic representations  
@@ -33,6 +33,7 @@ This repository contains artifacts for the paper:
 - The notebooks are self-contained demonstrations of the methodology described in the paper.
 - They are intended to illustrate the semantic modeling and drift detection pipeline rather than a production system.
 - All artifacts have been anonymized for double-blind review.
+- If GitHub preview fails, please open notebooks in Google Colab or download and run locally.
 
 ## Requirements
 
