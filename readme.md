@@ -17,6 +17,9 @@ This repository contains artifacts for the paper:
   - semantic claim extraction  
   - drift analysis across lifecycle stages  
 
+- **.py versions of both notebooks**  
+  Equivalent Python script versions of the notebooks are also provided for convenience, in case notebook rendering is not supported in the reviewer’s environment.
+
 ## Usage
 
 1. Open the notebooks in:
